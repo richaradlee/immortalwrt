@@ -1,0 +1,2 @@
+0 4 * * 3 lua /usr/share/passwall/rule_update.lua log all cron > /dev/null 2>&1 &
+0 4 * * * lua /usr/share/passwall/subscribe.lua start cfg168b02 cron > /dev/null 2>&1 &
