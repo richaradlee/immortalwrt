@@ -271,7 +271,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-passwall=y
           CONFIG_PACKAGE_luci-app-passwall2=y 
           CONFIG_PACKAGE_luci-app-netdata=y
-          CONFIG_PACKAGE_luci-app-smartdns=y
+          # CONFIG_PACKAGE_luci-app-smartdns=y
           CONFIG_PACKAGE_luci-app-watchcat=y
           # CONFIG_PACKAGE_luci-app-transmission=y
           CONFIG_PACKAGE_luci-app-cpufreq=y
@@ -279,7 +279,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-mwan3=y
           # CONFIG_PACKAGE_luci-app-mwan3helper=y
           # CONFIG_PACKAGE_luci-app-airplay2=y
-          CONFIG_PACKAGE_luci-app-ssr-plus=y
+          # CONFIG_PACKAGE_luci-app-ssr-plus=y
           CONFIG_PACKAGE_luci-app-diskman=y
           CONFIG_PACKAGE_luci-app-frps=y
           CONFIG_PACKAGE_luci-app-nfs=y
@@ -288,9 +288,9 @@ jobs:
           # CONFIG_PACKAGE_luci-app-uugamebooster=y
           # CONFIG_PACKAGE_luci-app-adguardhome=y
           CONFIG_PACKAGE_luci-app-eqos=y
-          CONFIG_PACKAGE_luci-app-pushbot=y
+          # CONFIG_PACKAGE_luci-app-pushbot=y
           # CONFIG_PACKAGE_luci-app-aliyundrive-webdav=y
-          CONFIG_PACKAGE_luci-app-unblockneteasemusic=y
+          # CONFIG_PACKAGE_luci-app-unblockneteasemusic=y
           # CONFIG_PACKAGE_luci-app-mosdns=y
           # CONFIG_PACKAGE_luci-app-udpxy=y
           # CONFIG_PACKAGE_luci-app-store=y 
@@ -298,7 +298,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-netspeedtest=y
           CONFIG_PACKAGE_luci-app-msd_lite=y
           CONFIG_PACKAGE_luci-app-lucky=y
-          CONFIG_PACKAGE_luci-app-zerotier=y
+          # CONFIG_PACKAGE_luci-app-zerotier=y
           EOF
 
           # LuCI主题:
